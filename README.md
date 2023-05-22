@@ -5,7 +5,7 @@ The folder structure is as follows:
 + **ChaCha implementation**
   - `classical chacha.c`: Classical ChaCha cipher implementation in C  
   - `classical with addition.ipynb`: Notebook for classical ChaCha cipher implementation; easier to vary the number of bits in word size and constants  
-  - `quantum rewired circuit.ipynb`: Our Final Quantum ChaCha implementation (uses Cuccaro et al.'04 for addition modulo 2^n, CNOT for XOR operations. rewiring for shift operations).
+  - `quantum rewired circuit.ipynb`: Our Final Quantum ChaCha implementation (uses Cuccaro et al.'04 for addition modulo $2^n$, CNOT for XOR operations. rewiring for shift operations).
   - `qubit and gate count.ipynb`: Given a particular bit size, calculates the qubit count and depth of the circuit
 + **ChaCha cryptanalysis**
   - `ID OD bias.ipynb`: given a particular input difference and output difference position, generates the output difference
