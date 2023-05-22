@@ -10,7 +10,7 @@ from qiskit import QuantumRegister, ClassicalRegister, Aer, BasicAer, QuantumCir
 # from qiskit.quantum_info import Statevector
 import numpy as np
 
-#TOKEN="5c68361d5b9e2c398434de7d981228d3556831658cded8c26a033c8ac53da6315d5323659c57a779fe4630f4fd9d3104ad65483f905c39767a8c8d30caa5a94f"
+#TOKEN="your_token_here"
 #IBMQ.save_account(TOKEN)
 #IBMQ.load_account() # Load account from disk
 # IBMQ.providers() 
